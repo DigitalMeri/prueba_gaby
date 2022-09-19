@@ -34,7 +34,7 @@
     <!-- page title -->
     <div class="about-bg centered">
         <div class="container">
-            <div class="text text-left">RollTec - Fijaciones</div>
+            <div class="text text-left">RollTec - Fijaciones Cambio x afuera</div>
         </div>
     </div>
     <!-- end page title -->
