@@ -8,7 +8,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>RollTec - Presupuestos</title>
+<title>RollTec - Presupuestos Cambio Abajo</title>
    
 <?php include("meta.php"); ?>
 	
@@ -32,7 +32,7 @@
     <!-- page title -->
     <div class="about-bg centered">
         <div class="container">
-            <div class="text text-left">RollTec - Presupuestos</div>
+            <div class="text text-left">RollTec -- Presupuestos</div>
         </div>
     </div>
     <!-- end page title -->
